@@ -15,4 +15,4 @@ I'm currently organizing and publishing selected university projects — includi
 
 ##  Contact
 Feel free to reach out by email: sadon.shahaf@gmail.com
-Or just follow my journey here on GitHub 🚀
+Or just follow my journey here on GitHub 
