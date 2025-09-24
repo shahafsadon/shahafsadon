@@ -14,5 +14,5 @@ I'm currently organizing and publishing selected university projects — includi
 -  Clean architecture, modular design and code documentation
 
 ##  Contact
-Feel free to reach out by email: shahafzzzzxxxx@gmail.com
+Feel free to reach out by email: sadon.shahaf@gmail.com
 Or just follow my journey here on GitHub 🚀
