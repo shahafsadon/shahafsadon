@@ -1,6 +1,6 @@
 #  Hey, I'm Shahaf Sadon
 
-I'm a first-year Software Engineering student at Bar-Ilan University  
+I'm a second-year Software Engineering student at Bar-Ilan University  
 Passionate about learning through building real-world projects  
 Experienced with Java, Python and C, especially in object-oriented design and algorithmic thinking
 
